@@ -1,7 +1,22 @@
-.block1{
-    background-color: black;
+
+.nborder {
+    border: none;
 }
 
-.block2{
-    background-color: black;
+.marge{
+    margin-bottom: 100px;
+}
+
+.block{
+    margin-top: 10px;
+    background-color: rgba(202, 200, 200, 0.767);
+}
+
+
+.mtop {
+    margin-top: 30px;
+}
+
+.cad {
+    margin-right: 280px;    
 }
